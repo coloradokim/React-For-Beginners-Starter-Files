@@ -1,0 +1,5 @@
+{
+  "react.beautify.onSave": true,
+  "prettier.semi": false,
+  
+}
